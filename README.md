@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif)]
+![MasterHead](https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif)
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A passionate university student from Canary Islands - Spain</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/2-28-2015/fehOpk.gif">
